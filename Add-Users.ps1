@@ -2,8 +2,7 @@
 
 ** users.csv file format **
 Name,SurName,Domain,Path,Password,Groups
-BCT,S2,3bct4id.army.mil,"OC=CQ-Battalion,OU=3BCT4ID Service Accounts,DC=3BCT4ID,DC=ARMY,DC=MIL",345rtyui#$%RTYUI,"Group 1,Group 2,Group 3"
-
+First,Last,domain.com,"OU=Top folder,OU=Domain Users,DC=domain,DC=com",SomeSecurePassword!@# ,"Group 1,Group 2,Group 3"
 
 #>
 
